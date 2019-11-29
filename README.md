@@ -1,2 +1,2 @@
-# Praktikum-WEB-HTMLCSS
-E1E119017-Andi Gamm Brilliant Arifzha
+# Praktikum-WEB_HTML_CSS
+E1E11017-Andi Gamma Brilliant Arifzha
