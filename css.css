@@ -78,9 +78,14 @@ body {
     padding: 0px 0;
     margin-bottom:0px;
 }
-.content-body {
+.content-box {
     justify-content: center;
     display: flex;
+    padding: 20px ;
+}
+.content-body {
+    justify-content: center;
+    display: inline;
     padding: 20px ;
 }
 .title {
